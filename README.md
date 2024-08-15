@@ -1,4 +1,4 @@
-# Onepiece-NewsLetter
+# Acervo Mangas
 
 Este é um projeto dedicado ao universo dos apreciadores de mangas, desenvolvido para praticar as tecnologias React juntamente com o Javascript e Styled components.
 
